@@ -1,0 +1,29 @@
+_repo: Sudliche-Reise_62481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benrath, Henry
+    alias: Rausch, Albert Heinrich
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '51962'
+    url: http://www.gutenberg.org/2009/agents/51962
+    wikipedia: https://de.wikipedia.org/wiki/Albert_H._Rausch
+description: ''
+gutenberg_issued: '2020-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62481'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Tunis (Tunisia) -- Description and travel'
+- !lcsh 'Europe, Southern -- Description and travel'
+- GITenberg
+tableOfContents: Widmung -- Ravenna -- Florenz -- Rom -- Neapel, überfahrt nach Sizilien
+  -- Palermo -- Tunis, Wüste -- Hellas (abend in Segesta, tage in Syrakus, Capri.
+title: Südliche Reise
+url: http://www.gutenberg.org/ebooks/62481
